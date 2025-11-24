@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "520252251515",
+    "firebase_url": "https://quanlychitieu-99d33-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quanlychitieu-99d33",
+    "storage_bucket": "quanlychitieu-99d33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520252251515:android:dc8198d49142352bfd71de",
+        "android_client_info": {
+          "package_name": "com.example.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6KMNo3b5m2u3ys8awNvMv9cqPLbMXcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
